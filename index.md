@@ -4,13 +4,13 @@ My name is Isaak Dahdul and this is my portfolio, I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub is http://github.com/isaakdahdul.
+My GitHub page is [http://github.com/isaakdahdul](http://github.com/isaakdahdul).
 
 ### CPSC 120
 
 * Lab 10 - California Counties
 
-    Lab 10 was my favorite because I was able to have the opportunity to work with 2D vectors, which felt like a advancement from regular vectors. I liked that the data was  California population data, so the program actually felt useful and relatable to myself instead of just made up. I learned how to organize information in rows and columns and how to search through a 2D structure to calculate percentages.
+    Lab 10 was my favorite because I was able to have the opportunity to work with 2D vectors, which felt like an advancement from regular vectors. I liked that the data was California population data, so the program actually felt useful and relatable to myself instead of just made up. I learned how to organize information in rows and columns and how to search through a 2D structure to calculate percentages.
 
 * Lab 9 - Spell Checker
 
